@@ -12,5 +12,5 @@ crew=Crew(
 
 ## starting the task execution process wiht enhanced feedback
 
-result=crew.kickoff(inputs={'profile':'https://leetcode.com/u/bouncy_hufflepuff/'})
+result=crew.kickoff(inputs={'topic': "Hashing", 'difficulty':'Medium'})
 print(result)
