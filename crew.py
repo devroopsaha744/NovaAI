@@ -12,5 +12,5 @@ crew=Crew(
 
 ## starting the task execution process wiht enhanced feedback
 
-result=crew.kickoff(inputs={'topic': "Hashing", 'difficulty':'Medium'})
+result=crew.kickoff(inputs={'topic': "Prefix Sum", 'difficulty':'Easy and Medium'})
 print(result)
